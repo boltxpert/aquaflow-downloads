@@ -33,17 +33,13 @@ Workers synchronize saved work with the Manager at the shop. Offline use require
 
 ## Screenshots
 
+Actual AquaFlow screens rendered with fictional demo data. Select any image to view it at full size.
+
 | Manager dashboard | Worker delivery list |
 | :---: | :---: |
-| *Screenshot coming soon* | *Screenshot coming soon* |
+| [![AquaFlow Manager dashboard with sales, balances and delivery progress](screenshots/manager-dashboard.png)](screenshots/manager-dashboard.png) | [![AquaFlow Worker delivery list with pending filter and delivery actions](screenshots/worker-delivery-list.png)](screenshots/worker-delivery-list.png) |
 | **Customer account statement** | **Delivery subscriptions** |
-| *Screenshot coming soon* | *Screenshot coming soon* |
-
-<!-- Replace placeholders with images after uploading screenshots to this repository.
-Suggested paths: screenshots/manager-dashboard.png, screenshots/worker-deliveries.png,
-screenshots/customer-statement.png, screenshots/delivery-subscriptions.png.
-Use demonstration data; hide customer phone numbers, balances and other private details.
--->
+| [![AquaFlow customer account statement with date filters, balances and PDF export](screenshots/customer-account-statement.png)](screenshots/customer-account-statement.png) | [![AquaFlow delivery subscription with regular worker, schedule and agreed product prices](screenshots/delivery-subscriptions.png)](screenshots/delivery-subscriptions.png) |
 
 ## Download & get started
 

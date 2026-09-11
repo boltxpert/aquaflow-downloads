@@ -1,3 +1,5 @@
+![AquaFlow - Water Delivery and Shop Management Software](assets/aquaflow-banner.png)
+
 <div align="center">
 
 # AquaFlow — Water Delivery & Shop Management Software

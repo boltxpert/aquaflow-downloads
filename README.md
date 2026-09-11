@@ -1,4 +1,4 @@
-![AquaFlow - Water Delivery and Shop Management Software](assets/aquaflow-banner.png)
+![AquaFlow - Water Delivery and Shop Management Software](assets/aquaflow-banner-v2.png)
 
 <div align="center">
 
